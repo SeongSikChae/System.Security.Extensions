@@ -3,7 +3,7 @@
 	/// <summary>
 	/// Base32 Encoder and Decoder
 	/// </summary>
-	public static class Base32
+	internal static class Base32
 	{
 		private const string _base32Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
 
